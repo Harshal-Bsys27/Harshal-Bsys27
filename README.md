@@ -45,6 +45,6 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/YOUR_LINK
-- 📧 Email: yourname@email.com
+- 💼 LinkedIn: https://www.linkedin.com/in/harshalbarhate778945ag/
+- 📧 Email:
 - 🌐 GitHub: https://github.com/Harshal-Bsys27
