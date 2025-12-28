@@ -36,6 +36,13 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 👉 Check out my repositories below ⬇️
 
 ---
+## 💡 Strengths
+- Strong verbal and written communication skills  
+- Confident public speaker and presenter  
+- Ability to explain technical concepts clearly  
+- Effective team collaboration and leadership
+
+---
 
 ## 📌 Currently
 - Strengthening Machine Learning fundamentals
