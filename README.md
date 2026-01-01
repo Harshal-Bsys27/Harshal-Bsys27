@@ -28,15 +28,19 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ---
 
 ## 🚀 Projects
-- **AI Study Planner**  
-  AI-powered planner to generate personalized study schedules
 
-- **HireLens (AI Resume Analyzer)**  
-  AI-based resume analysis for skill insights and ATS compatibility
+- **LetsTravel** — Full-stack travel booking web app with tour packages, personalized itinerary generation, checkout flow, ticket PDF, and an admin dashboard.  
+  *Tech:* Flask, MongoDB, HTML/CSS/JS, ReportLab • *Deploy:* Render
 
-- **Student Management System**  
-  Full-stack application for managing student records efficiently
+- **AI Study Planner** — AI-powered planner that generates personalized study schedules with progress visualization.  
+  *Tech:* React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT • *Deploy:* Render
 
+- **HireLens (AI Resume Analyzer)** — AI resume analyzer for skill insights, ATS compatibility checks, and PDF report generation.  
+  *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
+
+- **Student Management System** — Full-stack app to manage student records (CRUD) with a clean admin-style UI.  
+  *Tech:* Flask, SQLite, Bootstrap, Font Awesome • *Deploy:* Render
+  
 👉 Check out my repositories below ⬇️
 
 ---
