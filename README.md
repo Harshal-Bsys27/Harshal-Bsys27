@@ -28,12 +28,13 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ---
 
 ## 🚀 Projects
+
 These are some of my main portfolio projects where I focus on building end-to-end applications (frontend + backend), clean UI, and practical features like authentication, data handling, and deployment.
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
   *Tech:* Flask, MongoDB, HTML/CSS/JS, ReportLab • *Deploy:* Render
 
-  - **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
+- **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
   *Tech:* Flask, SQLite, Bootstrap, Font Awesome • *Deploy:* Render
 
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.  
