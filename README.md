@@ -37,6 +37,7 @@ These are some of my main portfolio projects where I focus on building end-to-en
 
 - **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
   *Tech:* Flask, SQLite, Bootstrap, Font Awesome • *Deploy:* Render
+    🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
 
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.  
   *Tech:* React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT • *Deploy:* Render
