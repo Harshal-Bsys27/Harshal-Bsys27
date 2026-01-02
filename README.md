@@ -33,6 +33,7 @@ These are some of my main portfolio projects where I focus on building end-to-en
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
   *Tech:* Flask, MongoDB, HTML/CSS/JS, ReportLab • *Deploy:* Render
+  🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
 
 - **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
   *Tech:* Flask, SQLite, Bootstrap, Font Awesome • *Deploy:* Render
