@@ -43,7 +43,7 @@ These are some of my main portfolio projects where I focus on building end-to-en
 - **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
   *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
 
-👉 Check out my repositories below ⬇️
+👉 Check out my repositories 
 
 ---
 ## 💡 Strengths
