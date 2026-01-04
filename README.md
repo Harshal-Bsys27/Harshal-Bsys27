@@ -62,11 +62,6 @@ These are some of my main portfolio projects where I focus on building end-to-en
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
-
----
-## 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Harshal-Bsys27)
-
 ---
 ## 💡 Strengths
 - Strong verbal and written communication skills  
