@@ -65,7 +65,7 @@ These are some of my main portfolio projects where I focus on building end-to-en
 
 ---
 ## 📊 GitHub Stats
-![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=default)
+<img src="https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true" />
 
 ---
 ## 💡 Strengths
