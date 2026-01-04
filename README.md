@@ -1,4 +1,5 @@
 ## 👋 Hi, I'm Harshal
+🚀 Passionate about building production-ready AI & full-stack applications
 
 CSE (AI & ML) Third-Year Engineering student  
 Building AI & full-stack projects | Seeking internship opportunities 🚀
@@ -32,24 +33,23 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 These are some of my main portfolio projects where I focus on building end-to-end applications (frontend + backend), clean UI, and practical features like authentication, data handling, and deployment.
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
-  *Tech:* Flask, MongoDB, HTML/CSS/JS, ReportLab
-  • *Deploy:* Render
+**Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
+**Deploy:** Render
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
 
 ---
 
 - **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
-  *Tech:* Flask, SQLite, Bootstrap, Font Awesome •
-   *Deploy:* Render
+**Tech:** Flask, SQLite, Bootstrap, Font Awesome •
+**Deploy:** Render
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
 
 ---
 
-- **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.  
-  *Tech:* React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
-  • *Deploy:* Render
+- **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.   **Tech:** React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
+**Deploy:** Render
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
 
@@ -60,6 +60,10 @@ These are some of my main portfolio projects where I focus on building end-to-en
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
+
+---
+## 📊 GitHub Stats
+![Harshal's GitHub stats](https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=default)
 
 ---
 ## 💡 Strengths
