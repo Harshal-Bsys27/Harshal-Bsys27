@@ -1,3 +1,5 @@
+![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
+
 ## 👋 Hi, I'm Harshal
 🚀 Passionate about building production-ready AI & full-stack applications
 
