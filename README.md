@@ -33,14 +33,16 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ## 🚀 Projects
 
 A selection of my main portfolio projects focused on end-to-end development, combining clean UI, scalable backend systems, and practical features such as authentication, data processing, analytics, and deployment.
-
+---
 - **🚧 COASTVISION – AI Beach Surveillance System**
 
 AI-based beach surveillance system for real-time swimmer and drowning detection.
 - YOLO-based computer vision model for detection
 - Zone-wise monitoring dashboard with video feeds and alerts
 - Model training completed; accuracy improvement in progress
-- Flutter-based lifeguard mobile app under development  
+- Flutter-based lifeguard mobile app under development
+
+  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 ---
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
