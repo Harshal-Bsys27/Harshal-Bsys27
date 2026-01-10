@@ -34,6 +34,15 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 
 These are some of my main portfolio projects where I focus on building end-to-end applications (frontend + backend), clean UI, and practical features like authentication, data handling, and deployment.
 
+## 🚧 COASTVISION – AI Beach Surveillance System
+
+AI-based beach surveillance system for real-time swimmer and drowning detection.
+
+- YOLO-based computer vision model for detection
+- Zone-wise monitoring dashboard with video feeds and alerts
+- Model training completed; accuracy improvement in progress
+- Flutter-based lifeguard mobile app under development
+---
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
 **Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
 **Deploy:** Render
