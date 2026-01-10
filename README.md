@@ -45,14 +45,14 @@ AI-based beach surveillance system for real-time swimmer and drowning detection.
 - Model training completed; accuracy improvement in progress
 - Flutter-based lifeguard mobile app under development
 
-  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 ---
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
 **Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
 **Deploy:** Render
   
-👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
 
 ---
 
@@ -60,19 +60,19 @@ AI-based beach surveillance system for real-time swimmer and drowning detection.
 **Tech:** Flask, SQLite, Bootstrap, Font Awesome •
 **Deploy:** Render
   
-👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
 
 ---
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.   **Tech:** React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
 **Deploy:** Render
   
-👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
 
 ---
 - **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
   *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
   
-👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
 ---
 ## 💡 Strengths
