@@ -32,7 +32,7 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 
 ## 🚀 Projects
 
-**A selection of my main portfolio projects focused on end-to-end development, combining clean UI, scalable backend systems, and practical features such as authentication, data processing, analytics, and deployment.**
+A selection of my main portfolio projects focused on end-to-end development, combining clean UI, scalable backend systems, and practical features such as authentication, data processing, analytics, and deployment.
 ---
 - **🚧 COASTVISION – AI Beach Surveillance System**
 
