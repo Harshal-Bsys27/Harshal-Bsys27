@@ -32,7 +32,7 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 
 ## 🚀 Projects
 
-A selection of my main portfolio projects focused on end-to-end development, combining clean UI, scalable backend systems, and practical features such as authentication, data processing, analytics, and deployment.
+**A selection of my main portfolio projects focused on end-to-end development, combining clean UI, scalable backend systems, and practical features such as authentication, data processing, analytics, and deployment.**
 ---
 - **🚧 COASTVISION – AI Beach Surveillance System**
 
@@ -60,14 +60,12 @@ AI-based beach surveillance system for real-time swimmer and drowning detection.
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
 
 ---
-
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.   **Tech:** React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
 **Deploy:** Render
   
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
 
 ---
-
 - **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
   *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
   
