@@ -1,9 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
 
 ## 👋 Hi, I'm Harshal
-🚀 Passionate about building production-ready AI & full-stack applications
-
 CSE (AI & ML) Third-Year Engineering student  
+
+🚀Passionate about building production-ready AI & full-stack applications
 Building AI & full-stack projects | Seeking internship opportunities 🚀
 
 ---
