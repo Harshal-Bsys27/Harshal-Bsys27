@@ -1,6 +1,6 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
 
-## 👋 Hi, I'm Harshal
+## 👋 Hi, I'm Harshal Barhate
 CSE (AI & ML) Third-Year Engineering student  
 
 🚀Passionate about building production-ready AI & full-stack applications
