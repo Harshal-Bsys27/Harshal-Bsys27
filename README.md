@@ -46,7 +46,7 @@ Zone-wise monitoring dashboard with video feeds and alerts
 Model training completed; accuracy improvement in progress
 Flutter-based lifeguard mobile app under development
 
- 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 
 ---
 
