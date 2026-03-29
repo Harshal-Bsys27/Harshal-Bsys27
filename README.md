@@ -30,19 +30,13 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
 
 ---
-
----
----
-
 ## 📊 GitHub Stats (auto-updating)
 
-<img src="https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=radical" />
+![Harshal-Bsys27's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=radical)
 
 ## 🏆 GitHub Trophies (auto-updating)
 
-<img src="https://github-profile-trophy.vercel.app/?username=Harshal-Bsys27&margin-w=10&margin-h=10&theme=juicyfresh" />
-
----
+![Harshal-Bsys27's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Harshal-Bsys27&margin-w=10&margin-h=10&theme=juicyfresh)
 ---
 
 ## 🚀 Projects
