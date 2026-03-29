@@ -32,13 +32,17 @@ Building AI & full-stack projects | Seeking internship opportunities 🚀
 ---
 
 ---
+---
 
 ## 📊 GitHub Stats (auto-updating)
+
 <img src="https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=radical" />
 
 ## 🏆 GitHub Trophies (auto-updating)
+
 <img src="https://github-profile-trophy.vercel.app/?username=Harshal-Bsys27&margin-w=10&margin-h=10&theme=juicyfresh" />
 
+---
 ---
 
 ## 🚀 Projects
