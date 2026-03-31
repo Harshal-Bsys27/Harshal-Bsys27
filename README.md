@@ -1,6 +1,11 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
 
 ## 👋 Hi, I'm Harshal Barhate
+
+## 👋 Hi, I'm Harshal Barhate
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=500&lines=Hello!+Welcome+to+my+profile;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
+
 CSE (AI & ML) Third-Year Engineering student  
 
 🚀Passionate about building production-ready AI & full-stack applications
@@ -76,6 +81,7 @@ Flutter-based lifeguard mobile app under development
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
 ---
+
 ![GitHub followers](https://img.shields.io/github/followers/Harshal-Bsys27?label=Followers&style=social)
 ![GitHub User's stars](https://img.shields.io/github/stars/Harshal-Bsys27?label=Total%20Stars&style=social)
 ### 🔥 Contribution Streak
@@ -83,6 +89,10 @@ Flutter-based lifeguard mobile app under development
 
 </div>
 
+---
+## 🐍 Contribution Graph
+
+![snake gif](https://github.com/Harshal-Bsys27/Harshal-Bsys27/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 💡 Strengths
 - Strong verbal and written communication skills  
@@ -100,8 +110,20 @@ Flutter-based lifeguard mobile app under development
 ---
 
 ## 📫 Connect With Me
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://harshalbarhate.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshalbarhate778945ag/)
-[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshalbarhate2028@gmail.com)
-🌐 GitHub: https://github.com/Harshal-Bsys27
+
+<a href="https://harshalbarhate.me">
+  <img src="https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge" />
+</a>
+
+<a href="https://linkedin.com/in/harshalbarhate778945ag/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="mailto:harshalbarhate2028@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail" />
+</a>
+
+<a href="https://github.com/Harshal-Bsys27">
+  <img src="https://img.shields.io/badge/GitHub-Visit-181717?style=for-the-badge&logo=github" />
+</a>
 
