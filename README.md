@@ -2,8 +2,6 @@
 
 ## 👋 Hi, I'm Harshal Barhate
 
-## 👋 Hi, I'm Harshal Barhate
-
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=500&lines=Hello!+Welcome+to+my+profile;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
 
 CSE (AI & ML) Third-Year Engineering student  
