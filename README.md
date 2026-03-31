@@ -100,7 +100,8 @@ Flutter-based lifeguard mobile app under development
 ---
 
 ## 📫 Connect With Me
-- 💼 LinkedIn: https://www.linkedin.com/in/harshalbarhate778945ag/
-- 📧 Email: harshalbarhate2028@gmail.com
-- 🌐 GitHub: https://github.com/Harshal-Bsys27
-- 🚀 Portfolio: [Harshal.V.Barhate](https://harshalbarhate.me)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue?style=for-the-badge)](https://harshalbarhate.me)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/harshalbarhate778945ag/)
+[![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:harshalbarhate2028@gmail.com)
+🌐 GitHub: https://github.com/Harshal-Bsys27
+
