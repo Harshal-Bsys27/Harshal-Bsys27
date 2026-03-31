@@ -5,7 +5,8 @@
 
 A CSE (AI & ML) Third-Year Engineering student  
 Passionate about building production-ready AI & full-stack applications
-Building AI & full-stack projects |Seeking internship opportunities 
+Building AI & full-stack projects |Seeking internship opportunities
+---
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Engineering (AI & ML)
