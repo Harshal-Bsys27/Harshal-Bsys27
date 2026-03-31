@@ -4,9 +4,10 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6366F1&width=500&lines=Hello!+Welcome+to+my+profile;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
 
-CSE (AI & ML) Third-Year Engineering student  
-🚀Passionate about building production-ready AI & full-stack applications
-Building AI & full-stack projects | Seeking internship opportunities 🚀
+
+A CSE (AI & ML) Third-Year Engineering student  
+Passionate about building production-ready AI & full-stack applications
+Building AI & full-stack projects |Seeking internship opportunities 
 ---
 
 ## 🧑‍💻 About Me
@@ -83,11 +84,6 @@ Flutter-based lifeguard mobile app under development
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Bsys27&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&ring=6366f1)
 
 </div>
-
----
-## 🐍 Contribution Graph
-
-![snake gif](https://github.com/Harshal-Bsys27/Harshal-Bsys27/blob/output/github-contribution-grid-snake.svg)
 ---
 ## 💡 Strengths
 - Strong verbal and written communication skills  
