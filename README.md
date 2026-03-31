@@ -76,16 +76,8 @@ Flutter-based lifeguard mobile app under development
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
 ---
-## 📊 GitHub Analytics
-
-<div align="center">
-  
-### Overall Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Harshal-Bsys27&show_icons=true&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&icon_color=0d9488&text_bold=false&rank_icon=github)
-
-### 🔝 Most Used Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Harshal-Bsys27&layout=compact&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8)
-
+![GitHub followers](https://img.shields.io/github/followers/Harshal-Bsys27?label=Followers&style=social)
+![GitHub User's stars](https://img.shields.io/github/stars/Harshal-Bsys27?label=Total%20Stars&style=social)
 ### 🔥 Contribution Streak
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Bsys27&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&ring=6366f1)
 
