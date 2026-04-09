@@ -1,12 +1,10 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
- 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Harshal+Barhate+%F0%9F%91%8B;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Harshal+Barhate+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
 
-**A CSE (AI & ML) Third-Year Engineering student  
-Passionate about building production-ready AI & full-stack applications
-Building AI & full-stack projects |Seeking internship opportunities**
-
+### 🚀 CSE (AI & ML) Third-Year Engineering Student
+### 🤖 Building production-ready AI + Full-Stack applications
+### 🎯 Actively building projects | Seeking internship opportunities
 
 ---
 
