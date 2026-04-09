@@ -35,13 +35,13 @@ A selection of my main portfolio projects focused on end-to-end development, com
 
 ---
 
-- **🚧 COASTVISION – AI Beach Surveillance System (In Progress}**
+- **COASTVISION – AI Beach Surveillance System**
 
-AI-based beach surveillance system for real-time swimmer and drowning detection.
-YOLO-based computer vision model for detection
-Zone-wise monitoring dashboard with video feeds and alerts
-Model training completed; accuracy improvement in progress
-Flutter-based lifeguard mobile app under development
+AI-based beach surveillance system for real-time swimmer safety monitoring, including swimmer detection and drowning-risk alerts.  
+- YOLO-based computer vision model for detection  
+- Zone-wise monitoring dashboard with live video feeds and alerting  
+- Trained model with evaluated performance and tuning/optimization completed  
+- Telegram bot integration for lifeguard alerts (lifeguards connect to our bot and receive real-time signals/notifications)  
 
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 
