@@ -6,7 +6,10 @@
 A CSE (AI & ML) Third-Year Engineering student  
 Passionate about building production-ready AI & full-stack applications
 Building AI & full-stack projects |Seeking internship opportunities
+
+
 ---
+
 
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Engineering (AI & ML)
@@ -27,6 +30,8 @@ Building AI & full-stack projects |Seeking internship opportunities
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+
+
 ---
 
 ## 🚀 Projects
@@ -81,6 +86,8 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Harshal-Bsys27&theme=transparent&hide_border=true&title_color=6366f1&text_color=94a3b8&ring=6366f1)
 
 </div>
+
+
 ---
 ## 💡 Strengths
 - Strong verbal and written communication skills  
