@@ -45,7 +45,8 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 - YOLO-based computer vision model for detection  
 - Zone-wise monitoring dashboard with live video feeds and alerting  
 - Trained model with evaluated performance and tuning/optimization completed  
-- Telegram bot integration for lifeguard alerts (lifeguards connect to our bot and receive real-time signals/notifications)  
+- Telegram bot integration for lifeguard alerts (lifeguards connect to our bot and receive real-time signals/notifications)
+  Working on upgrading it with a  dedicated LIFEGUARD APP for lifeguards 
 
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 
