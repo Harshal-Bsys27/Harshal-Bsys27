@@ -14,7 +14,7 @@
 - 🤖 Interested in Artificial Intelligence & Machine Learning
 - 💻 Enjoy building real-world, deployable projects
 - 🌱 Constantly learning and improving my skills
-  -  An Avid GATE ASPIRANT 
+
 
 ---
 
