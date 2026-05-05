@@ -69,6 +69,7 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 ---
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.   **Tech:** React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
 **Deploy:** Render
+UPGRADE IS IN PROGESS 
   
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
 
