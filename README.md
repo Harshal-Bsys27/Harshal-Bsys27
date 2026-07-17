@@ -58,6 +58,7 @@ My interests span **Artificial Intelligence, Machine Learning, Computer Vision, 
 I believe software should solve real-world problems, which is why I focus on developing end-to-end solutions that combine clean user experiences with reliable backend systems and AI capabilities.
 
 Currently, I'm expanding my expertise in modern AI technologies while preparing for **GATE DA 2027** and actively seeking opportunities to contribute as an **AI or Software Engineering Intern**.
+
 ---
 
 # 🧰 Skills & Tools
