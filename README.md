@@ -1,22 +1,46 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
 
+<div align="center">
 
-<p align="center">
-  
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Barhate;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Applications;Computer+Vision+%7C+LLMs+%7C+Backend;Creator+of+COASTVISION;Currently+Building+CodePilot+AI;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Harshal%20Barhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58"/>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Barhate;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Applications;Computer+Vision+%E2%80%A2+Machine+Learning+%E2%80%A2+LLMs;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<h3>
+🚀 Building intelligent software that solves real-world problems.
+</h3>
+
+<p>
+🤖 AI • Computer Vision • Full-Stack Development • Modern AI Applications
+</p>
+
+<p>
+🎓 Final Year B.E. CSE (AI & ML) &nbsp; • &nbsp;
+🇮🇳 India &nbsp; • &nbsp;
+💼 Open to Internship Opportunities
+</p>
+
+<p>
+
+<a href="https://harshalbarhate.me">
+<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/harshalbarhate778945ag">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:harshalbarhate2028@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Harshal-Bsys27">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
-<h3 align="center">🚀 AI Engineer passionate about building intelligent software that solves real-world problems.</h3>
-
-<p align="center">
-🤖 Computer Vision • Large Language Models • Full-Stack Development • Open Source
-</p>
-
-<p align="center">
-🎓 Final Year B.E. CSE (AI & ML) • 🇮🇳 India • 💼 Open to Internship Opportunities
-</p>
-
+</div>
 ---
 
 
