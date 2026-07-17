@@ -50,19 +50,15 @@
 ### ⚙️ Backend Development
 
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+  <img src="https://skillicons.dev/icons?i=flask,fastapi,nodejs,express" />
 </p>
 
 ---
 
-### 🗄️ Databases & ORM
+### 🗄️ Databases
 
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
-</p>
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="48"/>
 </p>
 
 ---
@@ -70,11 +66,11 @@
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,opencv" />
 </p>
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,pandas,numpy,matplotlib,scikitlearn" height="48"/>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,pandas,numpy,matplotlib" height="48"/>
 </p>
 
 ---
@@ -83,22 +79,15 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
-</p>
-
-<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" height="48"/>
 </p>
 
 ---
 
-### ☁️ Deployment & Cloud
+### ☁️ Deployment
 
 <p>
   <img src="https://skillicons.dev/icons?i=vercel,docker" />
-</p>
-
-<p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
 </p>
 
 ---
