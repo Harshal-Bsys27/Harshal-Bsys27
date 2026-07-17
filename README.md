@@ -37,16 +37,17 @@
 <img src="https://img.shields.io/badge/LLMs-E11D48?style=flat-square"/>
 </p>
 
-<p>
+<h2 align="center">
+🎓 Final Year B.E. Computer Science (AI & ML)
+</h2>
 
-🎓 <b>Final Year B.E. Computer Science (AI & ML)</b>
+<h3 align="center">
+💼 Open to AI & Software Engineering Internship Opportunities
+</h3>
 
-💼 <b>Open to AI & Software Engineering Internship Opportunities</b>
-
-🌏 <b>Based in India</b>
-
-</p>
-
+<h3 align="center">
+🌏 Based in India
+</h3>
 </div>
 ---
 
