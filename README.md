@@ -49,13 +49,15 @@
 
 ---
 
-## 🧑‍💻 About Me
-- 🎓 Computer Science Engineering (AI & ML)
-- 🤖 Interested in Artificial Intelligence & Machine Learning
-- 💻 Enjoy building real-world, deployable projects
-- 🌱 Constantly learning and improving my skills
-- An Avid GATE DA Aspirant 27'
+# 👨‍💻 About Me
 
+I'm a **Final Year Computer Science Engineering (AI & ML)** student passionate about building **intelligent, scalable, and production-ready software**.
+
+My interests span **Artificial Intelligence, Machine Learning, Computer Vision, Large Language Models (LLMs), and Full-Stack Development**, where I enjoy transforming ideas into practical applications.
+
+I believe software should solve real-world problems, which is why I focus on developing end-to-end solutions that combine clean user experiences with reliable backend systems and AI capabilities.
+
+Currently, I'm expanding my expertise in modern AI technologies while preparing for **GATE DA 2027** and actively seeking opportunities to contribute as an **AI or Software Engineering Intern**.
 ---
 
 # 🧰 Skills & Tools
