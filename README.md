@@ -14,10 +14,14 @@
 🤖 AI • Computer Vision • Full-Stack Development • Modern AI Applications
 </p>
 
-<p>
-🎓 Final Year B.E. CSE (AI & ML) &nbsp; • &nbsp;
-🇮🇳 India &nbsp; • &nbsp;
-💼 Open to Internship Opportunities
+<p align="center">
+
+🎓 <strong>Final Year B.E. Computer Science (AI & ML)</strong>
+
+💼 <strong>Open to AI & Software Engineering Internship Opportunities</strong>
+
+🌏 <strong>Based in India</strong>
+
 </p>
 
 <p>
