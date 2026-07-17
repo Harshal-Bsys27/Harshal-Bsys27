@@ -30,13 +30,6 @@
 🚀 Building intelligent software that solves real-world problems.
 </h3>
 
-<p>
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square"/>
-<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square"/>
-<img src="https://img.shields.io/badge/Full--Stack-16A34A?style=flat-square"/>
-<img src="https://img.shields.io/badge/LLMs-E11D48?style=flat-square"/>
-</p>
-
 <h2 align="center">
 🎓 Final Year B.E. Computer Science (AI & ML)
 </h2>
