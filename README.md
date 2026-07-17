@@ -45,7 +45,8 @@
 💼 Open to AI & Software Engineering Internship Opportunities
 </h3>
 
----
+
+
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Engineering (AI & ML)
 - 🤖 Interested in Artificial Intelligence & Machine Learning
