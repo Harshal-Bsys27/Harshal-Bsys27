@@ -1,10 +1,21 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=Harshal-Bsys27&style=flat)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=900&color=22C55E&center=true&vCenter=true&width=900&lines=Hi%2C+I%27m+Harshal+Barhate+%F0%9F%91%8B;Welcome+to+my+GitHub+profile!;CSE+(AI+%26+ML)+Student;AI+%26+ML+Engineer;Full-Stack+Developer;Building+Production-Ready+Apps;Always+Learning+%26+Growing...)](https://git.io/typing-svg)
-### 🚀 CSE (AI & ML) Final Year Engineering Student
-### 🤖 Building production-ready AI + Full-Stack applications
-### 🎯 Actively building projects | Seeking internship opportunities
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Barhate;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Applications;Computer+Vision+%7C+LLMs+%7C+Backend;Creator+of+COASTVISION;Currently+Building+CodePilot+AI;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+</p>
+
+<h3 align="center">🚀 AI Engineer passionate about building intelligent software that solves real-world problems.</h3>
+
+<p align="center">
+🤖 Computer Vision • Large Language Models • Full-Stack Development • Open Source
+</p>
+
+<p align="center">
+🎓 Final Year B.E. CSE (AI & ML) • 🇮🇳 India • 💼 Open to Internship Opportunities
+</p>
 
 ---
 
