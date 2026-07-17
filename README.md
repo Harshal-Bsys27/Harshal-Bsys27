@@ -45,6 +45,8 @@
 💼 Open to AI & Software Engineering Internship Opportunities
 </h3>
 
+</div>
+
 ---
 
 ## 🧑‍💻 About Me
