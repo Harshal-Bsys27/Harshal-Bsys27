@@ -29,6 +29,82 @@
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Machine Learning](https://img.shields.io/badge/Machine_Learning-FF6F00?style=for-the-badge)
+# 🧰 Skills & Tools
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,sql" />
+</p>
+
+---
+
+### 🌐 Frontend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,html,css,tailwind,bootstrap,materialui" />
+</p>
+
+---
+
+### ⚙️ Backend Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,fastapi" />
+</p>
+
+---
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase" />
+</p>
+
+---
+
+### 🤖 AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=yolo,huggingface,pandas,numpy,matplotlib" />
+</p>
+
+---
+
+### 📱 Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" height="48"/>
+</p>
+
+---
+
+### ☁️ Cloud & Deployment
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vercel,render,docker,githubactions" />
+</p>
+
+---
+
+### 🧰 Developer Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" />
+</p>
+
+---
+
+### 🔌 APIs & Authentication
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,restapi,telegram" />
+</p>
 
 
 ---
