@@ -29,11 +29,9 @@
 <h3>
 🚀 Building intelligent software that solves real-world problems.
 </h3>
-
 <h2 align="center">
 🎓 Final Year B.E. Computer Science (AI & ML)
 </h2>
-
 <h3 align="center">
 💼 Open to AI & Software Engineering Internship Opportunities
 </h3>
