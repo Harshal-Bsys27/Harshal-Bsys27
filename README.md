@@ -45,13 +45,7 @@
 💼 Open to AI & Software Engineering Internship Opportunities
 </h3>
 
-<h3 align="center">
-🌏 Based in India
-</h3>
-</div>
 ---
-
-
 ## 🧑‍💻 About Me
 - 🎓 Computer Science Engineering (AI & ML)
 - 🤖 Interested in Artificial Intelligence & Machine Learning
