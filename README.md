@@ -2,32 +2,12 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&customColorList=12,20,24,30&text=Harshal%20Barhate&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20%7C%20Full-Stack%20Developer&descAlignY=58"/>
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B+I'm+Harshal+Barhate;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Applications;Computer+Vision+%E2%80%A2+Machine+Learning+%E2%80%A2+LLMs;Always+Learning+%F0%9F%9A%80)](https://git.io/typing-svg)
-
-<h3>
-🚀 Building intelligent software that solves real-world problems.
-</h3>
-
-<p>
-🤖 AI • Computer Vision • Full-Stack Development • Modern AI Applications
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&customColorList=6,12,20,24,30&text=Harshal%20Barhate&fontSize=60&fontAlignY=38&fontColor=ffffff&animation=fadeIn&desc=AI%20Engineer%20•%20Full-Stack%20Developer&descAlignY=60&descSize=22"/>
 
 <p align="center">
 
-🎓 <strong>Final Year B.E. Computer Science (AI & ML)</strong>
-
-💼 <strong>Open to AI & Software Engineering Internship Opportunities</strong>
-
-🌏 <strong>Based in India</strong>
-
-</p>
-
-<p>
-
 <a href="https://harshalbarhate.me">
-<img src="https://img.shields.io/badge/Portfolio-111827?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/🌐%20Portfolio-Visit-6C63FF?style=for-the-badge"/>
 </a>
 
 <a href="https://linkedin.com/in/harshalbarhate778945ag">
@@ -35,12 +15,35 @@
 </a>
 
 <a href="mailto:harshalbarhate2028@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/Harshal-Bsys27">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
+</p>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=28&pause=1200&color=7C3AED&center=true&vCenter=true&width=900&lines=Hi+👋+I'm+Harshal+Barhate;AI+Engineer+%7C+Full-Stack+Developer;Building+Production-Ready+AI+Applications;Computer+Vision+•+Machine+Learning+•+LLMs;Always+Learning+🚀)](https://git.io/typing-svg)
+
+<h3>
+🚀 Building intelligent software that solves real-world problems.
+</h3>
+
+<p>
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-7C3AED?style=flat-square"/>
+<img src="https://img.shields.io/badge/Computer%20Vision-2563EB?style=flat-square"/>
+<img src="https://img.shields.io/badge/Full--Stack-16A34A?style=flat-square"/>
+<img src="https://img.shields.io/badge/LLMs-E11D48?style=flat-square"/>
+</p>
+
+<p>
+
+🎓 <b>Final Year B.E. Computer Science (AI & ML)</b>
+
+💼 <b>Open to AI & Software Engineering Internship Opportunities</b>
+
+🌏 <b>Based in India</b>
 
 </p>
 
