@@ -34,7 +34,7 @@
 ### 💻 Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,java,sql" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,sql" />
 </p>
 
 ---
@@ -55,10 +55,14 @@
 
 ---
 
-### 🗄️ Databases
+### 🗄️ Databases & ORM
 
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,sqlite,supabase,firebase" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,sqlite,postgres" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlalchemy" height="48"/>
 </p>
 
 ---
@@ -66,11 +70,11 @@
 ### 🤖 AI / Machine Learning
 
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" />
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv" />
 </p>
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=yolo,huggingface,pandas,numpy,matplotlib" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=huggingface,pandas,numpy,matplotlib,scikitlearn" height="48"/>
 </p>
 
 ---
@@ -79,15 +83,22 @@
 
 <p>
   <img src="https://skillicons.dev/icons?i=react" />
+</p>
+
+<p>
   <img src="https://go-skill-icons.vercel.app/api/icons?i=expo" height="48"/>
 </p>
 
 ---
 
-### ☁️ Cloud & Deployment
+### ☁️ Deployment & Cloud
 
 <p>
-  <img src="https://skillicons.dev/icons?i=vercel,render,docker,githubactions" />
+  <img src="https://skillicons.dev/icons?i=vercel,docker" />
+</p>
+
+<p>
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=render" height="48"/>
 </p>
 
 ---
@@ -95,7 +106,7 @@
 ### 🧰 Developer Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux,bash" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,linux" />
 </p>
 
 ---
@@ -103,10 +114,8 @@
 ### 🔌 APIs & Authentication
 
 <p>
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,restapi,telegram" />
+  <img src="https://go-skill-icons.vercel.app/api/icons?i=jwt,telegram" height="48"/>
 </p>
-
-
 ---
 
 ## 🚀 Projects
