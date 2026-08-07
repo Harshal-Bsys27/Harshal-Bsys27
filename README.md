@@ -197,6 +197,7 @@ UPGRADE IS IN PROGESS
 - Strengthening Machine Learning fundamentals
 - Building AI & full-stack projects
 - Preparing for internship opportunities
+- Daily problem solving and DSA strengthening.
 
 ---
 
