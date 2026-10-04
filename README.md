@@ -153,6 +153,13 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/NLP-Complaint-Analyzer-Complaint-Intelligence-)
 
 ---
+- **ProofMark – Product Authenticity Verification Using Blockchain** — Blockchain-based anti-counterfeit system that enables manufacturers to register products on-chain and customers to verify product authenticity through QR codes or manual product verification. Uses cryptographic hashing and smart contracts to create tamper-resistant product records with transparent verification.  
+**Tech:** Solidity, React, Hardhat, Ethereum, MetaMask, ethers.js, SHA-256, QR Codes  
+**Blockchain:** Hardhat Local Network & Sepolia Testnet  
+
+👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ProofMark-Product-Authenticity-Blockchain)
+
+---
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
 **Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
@@ -161,14 +168,13 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
 
 ---
-
-- **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
-**Tech:** Flask, SQLite, Bootstrap, Font Awesome •
-**Deploy:** Render
+- **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
+  *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
   
- 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
 
 ---
+
 - **AI Study Planner** — AI-powered planner that creates personalized study schedules based on goals and available time. Includes progress insights and charts to help users stay consistent and track learning.   **Tech:** React, MUI, Recharts, Flask, SQLAlchemy, SQLite, JWT
 **Deploy:** Render
 UPGRADE IS IN PROGESS 
@@ -176,10 +182,12 @@ UPGRADE IS IN PROGESS
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
 
 ---
-- **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
-  *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
+
+- **Student Management System** — Full-stack application for managing student records efficiently with CRUD operations and a structured dashboard UI. Designed to keep data organized and easy to search/update.  
+**Tech:** Flask, SQLite, Bootstrap, Font Awesome •
+**Deploy:** Render
   
- 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/AI-Resume-Analyzer-Hirelens)
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/student-management-system)
 
 ---
 
