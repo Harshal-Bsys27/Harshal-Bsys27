@@ -134,7 +134,7 @@ A selection of my main portfolio projects focused on end-to-end development, com
 
 ---
 
--**COASTVISION – AI Beach Surveillance System**
+- **COASTVISION – AI Beach Surveillance System**
 
 AI-based beach surveillance system for real-time swimmer safety monitoring, including swimmer detection , drowning detection , zone-wise analytics and drowning-risk alerts.  
 - YOLO-based computer vision model for detection  
