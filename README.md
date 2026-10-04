@@ -161,13 +161,6 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 
 ---
 
-- **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
-**Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
-**Deploy:** Render
-  
- 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
-
----
 - **HireLens (AI Resume Analyzer)** — AI resume analyzer that extracts skills, checks ATS-friendly structure, and generates a detailed PDF report. Built to help candidates understand strengths, gaps, and improvement areas.  
   *Tech:* React, Tailwind, Flask, PyPDF2, Sentence Transformers, ReportLab
   
@@ -180,6 +173,13 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
 UPGRADE IS IN PROGESS 
   
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/ai-study-planner)
+
+---
+- **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
+**Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
+**Deploy:** Render
+  
+ 👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/LetsTravel-)
 
 ---
 
