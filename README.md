@@ -146,6 +146,13 @@ AI-based beach surveillance system for real-time swimmer safety monitoring, incl
  👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/COASTVISION)
 
 ---
+- **NLP Complaint Intelligence** — NLP-based system that classifies customer complaints, performs sentiment analysis, generates confidence-based insights, and maps complaints to the appropriate department for efficient resolution.  
+**Tech:** Python, NLTK, Scikit-learn, TF-IDF, Linear SVC, FastAPI, React, Vite  
+**Performance:** 96.32% Accuracy, 93.29% Macro F1  
+
+👉 🔗 [GitHub Repository](https://github.com/Harshal-Bsys27/NLP-Complaint-Analyzer-Complaint-Intelligence-)
+
+---
 
 - **LetsTravel** — Full-stack travel booking web app where users can explore tour packages, generate personalized itineraries, complete a booking + checkout flow, and download tickets as PDF. It also includes an admin dashboard to manage tours/bookings and view basic user activity insights.  
 **Tech:** Flask, MongoDB, HTML/CSS/JS, ReportLab  
